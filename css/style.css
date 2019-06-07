@@ -1,6 +1,17 @@
 /*-------------------------------------------------------*/
 /* General
 /*-------------------------------------------------------*/
+
+ul.tech-stacks li {
+    list-style: none;
+    float: left;
+}
+
+ul.tech-stacks li:before {
+  content: '\ffed';
+  margin-right: 0.5em;
+}
+
 .clearfix {
   *zoom: 1;
 }
@@ -3261,7 +3272,7 @@ input.searchbox:focus {
 /* Intro
 -------------------------------------------------------*/
 .section-wrap.intro {
-  padding: 170px 0 150px;
+  padding: 100px 0 150px;
 }
 
 .intro.style-2 .intro-text p {
