@@ -108,6 +108,12 @@ iframe {border: 0;}
   left: 10px;
 }
 
+a.scroll-down-a {
+  -webkit-animation: scroll-down-icon 1s infinite !important;
+  -moz-animation: scroll-down-icon 1s infinite !important;
+  -o-animation: scroll-down-icon 1s infinite !important;
+  animation: scroll-down-icon 1s infinite !important;
+}
 
 /*Slides 2, 3*/
 
