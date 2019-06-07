@@ -2,7 +2,7 @@
   "name": "online-resume",
   "version": "1.0.0",
   "description": "my personal online resume website",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
