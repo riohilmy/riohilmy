@@ -2,15 +2,17 @@
 /* General
 /*-------------------------------------------------------*/
 
-ul.tech-stacks li {
-    list-style: none;
-    float: left;
+.tech-stack-icon {
+  color: black !important;
+  line-height: 40px !important;
 }
 
-ul.tech-stacks li:before {
-  content: '\ffed';
-  margin-right: 0.5em;
-}
+/* .tech-stack-div {
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-left: 1px;
+  margin-bottom: 2px;
+} */
 
 .clearfix {
   *zoom: 1;
