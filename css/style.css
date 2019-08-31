@@ -7,6 +7,18 @@
   line-height: 40px !important;
 }
 
+.h-100 {
+  min-height: 100% !important;
+}
+
+.row-bs-4 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
 /* .tech-stack-div {
   border: 1px solid black;
   border-radius: 5px;
