@@ -7,6 +7,10 @@
   line-height: 40px !important;
 }
 
+.cursor-normal {
+  cursor: default !important;
+}
+
 .h-100 {
   min-height: 100% !important;
 }
