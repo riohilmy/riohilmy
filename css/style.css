@@ -7,6 +7,10 @@
   line-height: 40px !important;
 }
 
+.hero-holder {
+  width: 100% !important;
+}
+
 .cursor-normal {
   cursor: default !important;
 }
